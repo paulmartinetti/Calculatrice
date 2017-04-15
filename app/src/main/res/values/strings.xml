@@ -3,4 +3,5 @@
     <string name="label1">1. Mets un chiffre dans ce champs.</string>
     <string name="label2">2. Appuyez pour trouver une réponse.</string>
     <string name="btnLabel">Dix fois</string>
+    <string name="btnLabel2">Circonférence</string>
 </resources>

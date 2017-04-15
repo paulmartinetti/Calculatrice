@@ -25,17 +25,39 @@
         android:padding="10dp"/>
 
     <TextView
-        android:id="@+id/dixFoisLabel"
+        android:id="@+id/label2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:text="@string/label2"
         android:textSize="18sp" />
 
+    <TextView
+        android:id="@+id/dixFoisLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:padding="10dp"/>
+
     <Button
         android:id="@+id/dixfoisbtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btnLabel" />
+
+    <TextView
+        android:id="@+id/circumLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:padding="10dp"/>
+
+    <Button
+        android:id="@+id/circumBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnLabel2" />
 
 </LinearLayout>
